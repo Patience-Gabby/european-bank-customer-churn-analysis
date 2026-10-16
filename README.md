@@ -61,6 +61,9 @@ These recommendations are hypotheses for further investigation. The analysis ide
 The Power BI dashboard summarises customer churn through KPI cards, geographic comparisons, age-group analysis, gender analysis, activity status, and interactive slicers.
 
 *Add a screenshot of the completed dashboard here.*
+## Dashboard Preview
+
+![European Bank Customer Churn Dashboard](power-bi/dashboard.png)
 
 ## Limitations
 
