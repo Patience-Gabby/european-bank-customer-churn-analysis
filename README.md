@@ -62,9 +62,9 @@ The Power BI dashboard summarises customer churn through KPI cards, geographic c
 
 *Add a screenshot of the completed dashboard here.*
 ## Dashboard Preview
+## Dashboard Preview
 
-![European Bank Customer Churn Dashboard](power-bidashboard.png)
-
+![European Bank Customer Churn Dashboard](power-bi/power-bidashboard.png)
 ## Limitations
 
 - The analysis is based on the available dataset and its recorded customer attributes.
